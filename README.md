@@ -69,3 +69,13 @@ markdown-viewer/
 ├── requirements.txt    # Project dependencies
 └── README.md           # You are here!
 ```
+
+## Support
+<div align="center">
+
+  **Made with ❤️ and ☕ by the Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** ⭐
+</div>
