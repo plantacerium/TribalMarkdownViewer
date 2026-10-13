@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="160" alt="Tribal Markdown Logo" style="border-radius: 24px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);">
+  <img src="assets/logo.png" width="480" alt="Tribal Markdown Logo" style="border-radius: 24px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);">
 </p>
 
 <h1 align="center">✦ Tribal Markdown Viewer ✦</h1>
