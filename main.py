@@ -1,7 +1,12 @@
 import sys
 import os
+
+# Silenciar avisos no fatales de negociacion de DirectComposition de Chromium en Windows
+os.environ["QTWEBENGINE_CHROMIUM_FLAGS"] = "--log-level=3"
+
 import json
 from datetime import datetime
+
 from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QListWidget, QListWidgetItem, QSplitter, QLabel, QFrame,
